@@ -1,2 +1,5 @@
-# php-short-idws
-to make short url
+Just copy idea from Kevin van Zonneveld
+
+Kredit
+
+<a href="//github.com/kvz">@kvz</a>
